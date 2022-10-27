@@ -1,0 +1,1 @@
+* [REMIL](https://github.com/lifting-bits/remill) - Translates machine code instructions into LLVM bitcode. Currently supports translation for AArch64. SPARC32, SPARC64,x86 and amd64. Support for AArch32(32-bit ARMv8/ARMv7 is underway)
